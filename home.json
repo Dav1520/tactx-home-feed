@@ -1,25 +1,19 @@
 {
- "updated": "2026-10-08T16:00:00Z",
+ "updated": "2026-10-09T13:46:05Z",
  "week": {
   "date": "w/c 5 Oct 2026",
   "items": [
+   {
+    "kind": "New collection, 9 Oct",
+    "name": "Attacking Transition: Retaining the Ball, all 20 practices",
+    "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+    "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "Tactical analysis, 7 Oct",
     "name": "Klopp's Germany: How to Coach the Counter-Press",
     "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
     "img": "https://alpha.uscreencdn.com/images/programs/4383310/horizontal/28b30394-d229-4cbb-9348-e06a6c2a58f3.jpeg?auto=webp&width=640"
-   },
-   {
-    "kind": "New practice, 7 Oct",
-    "name": "Attacking Transition | Retain | Practice 20",
-    "href": "https://tactxcoach.com/programs/attacking-transition-retain-practice-20",
-    "img": "https://alpha.uscreencdn.com/images/programs/4381854/horizontal/1809a8b4-8da4-408f-a206-b8f2b6e79c5a.jpeg?auto=webp&width=640"
-   },
-   {
-    "kind": "Added since 5 Oct",
-    "name": "3 new Attacking Transition Retain practices",
-    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
-    "img": "https://alpha.uscreencdn.com/images/programs/4381790/horizontal/7d73b5a0-557a-4ba7-9f1d-a1e87f37b7dc.jpeg?auto=webp&width=640"
    }
   ]
  },
@@ -69,46 +63,11 @@
  ],
  "releases": [
   {
-   "title": "Attacking Transition | Retain | Practice 20",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retain-practice-20",
-   "img": "https://alpha.uscreencdn.com/images/programs/4381854/horizontal/1809a8b4-8da4-408f-a206-b8f2b6e79c5a.jpeg?auto=webp&width=640",
-   "dur": "2:01",
-   "date": "7 October"
-  },
-  {
-   "title": "Attacking Transition | Retain | Practice 19",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retain-practice-19",
-   "img": "https://alpha.uscreencdn.com/images/programs/4381790/horizontal/7d73b5a0-557a-4ba7-9f1d-a1e87f37b7dc.jpeg?auto=webp&width=640",
-   "dur": "1:57",
-   "date": "6 October"
-  },
-  {
-   "title": "Attacking Transition | Retain | Practice 18",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retain-practice-18",
-   "img": "https://alpha.uscreencdn.com/images/programs/4381723/horizontal/39379714-45d9-4367-8243-ca2e97119915.jpeg?auto=webp&width=640",
-   "dur": "1:37",
-   "date": "5 October"
-  },
-  {
-   "title": "Attacking Transition | Retain | Practice 17",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retain-practice-17",
-   "img": "https://alpha.uscreencdn.com/images/programs/4375481/horizontal/ceec59ec-0698-444d-879e-7abfb7882b08.jpeg?auto=webp&width=640",
-   "dur": "1:50",
-   "date": "3 October"
-  },
-  {
-   "title": "Attacking Transition | Retain | Practice 16",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retain-practice-16",
-   "img": "https://alpha.uscreencdn.com/images/programs/4373658/horizontal/001f623e-ac2e-4369-8aa0-f6dd7ea10bd4.jpeg?auto=webp&width=640",
-   "dur": "1:33",
-   "date": "2 October"
-  },
-  {
-   "title": "Attacking Transition | Retain | Practice 15",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retain-practice-15",
-   "img": "https://alpha.uscreencdn.com/images/programs/4373657/horizontal/1e993b98-e2ac-4436-9df5-6fcfb3bde9c8.jpeg?auto=webp&width=640",
-   "dur": "1:57",
-   "date": "1 October"
+   "title": "Attacking Transition: Retaining the Ball",
+   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
+   "dur": "20 practices",
+   "date": "9 October"
   },
   {
    "title": "The 3v3 Game: 2v2 Practice 5",
@@ -116,6 +75,41 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4359131/horizontal/d3a934a2-d154-4e7c-becd-fba41c34966a.jpeg?auto=webp&width=640",
    "dur": "1:30",
    "date": "28 September"
+  },
+  {
+   "title": "The 3v3 Game: 2v2 Practice 4",
+   "href": "https://tactxcoach.com/programs/the-3v3-game-2v2-practice-4",
+   "img": "https://alpha.uscreencdn.com/images/programs/4358244/horizontal/64046155-14a2-4792-a219-fbe8a0c9a2b5.jpeg?auto=webp&width=640",
+   "dur": "1:39",
+   "date": "26 September"
+  },
+  {
+   "title": "The 3v3 Game: 2v2 Practice 3",
+   "href": "https://tactxcoach.com/programs/the-3v3-game-2v2-practice-3",
+   "img": "https://alpha.uscreencdn.com/images/programs/4357480/horizontal/42bf6db7-23e5-442c-93ae-5f8c0a99b2e2.jpeg?auto=webp&width=640",
+   "dur": "2:37",
+   "date": "25 September"
+  },
+  {
+   "title": "The 3v3 Game: 2v2 Practice 2",
+   "href": "https://tactxcoach.com/programs/2v2-practice-02",
+   "img": "https://alpha.uscreencdn.com/images/programs/4353948/horizontal/c82e2d82-ad45-40d4-951b-3601cfef516f.jpeg?auto=webp&width=640",
+   "dur": "1:29",
+   "date": "24 September"
+  },
+  {
+   "title": "The 3v3 Game: 2v2 Practice 1",
+   "href": "https://tactxcoach.com/programs/2v2-practice-01",
+   "img": "https://alpha.uscreencdn.com/images/programs/4353921/horizontal/091610d9-a00f-4b49-bd62-f85bda03b06c.jpeg?auto=webp&width=640",
+   "dur": "2:02",
+   "date": "23 September"
+  },
+  {
+   "title": "The 3v3 Game: 2v1 Practice 7",
+   "href": "https://tactxcoach.com/programs/2v1-practice-07",
+   "img": "https://alpha.uscreencdn.com/images/programs/4349773/horizontal/87d306ca-5c28-48a9-8fef-141fad1d4df1.jpeg?auto=webp&width=640",
+   "dur": "1:53",
+   "date": "17 September"
   }
  ],
  "mwCollections": [
