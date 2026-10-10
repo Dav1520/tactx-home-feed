@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T06:50:31Z",
+ "updated": "2026-10-10T14:50:08Z",
  "week": {
   "date": "w/c 5 Oct 2026",
   "items": [
@@ -171,18 +171,18 @@
    "meta": "Talkover"
   },
   {
-   "title": "Fàbregas and Como",
-   "href": "https://tactxcoach.com/programs/cesc-fabregas",
-   "img": "https://alpha.uscreencdn.com/images/programs/4080518/horizontal/1f546458-7dd9-4aa4-b5d2-acac564d9740.jpg?auto=webp&width=640",
-   "dur": "53 min",
-   "meta": "Talking Everything Football"
-  },
-  {
    "title": "Klopp's Germany: The Full Class",
    "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
    "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
    "dur": "51 min",
    "meta": "Live class recording"
+  },
+  {
+   "title": "Fàbregas and Como",
+   "href": "https://tactxcoach.com/programs/cesc-fabregas",
+   "img": "https://alpha.uscreencdn.com/images/programs/4080518/horizontal/1f546458-7dd9-4aa4-b5d2-acac564d9740.jpg?auto=webp&width=640",
+   "dur": "53 min",
+   "meta": "Talking Everything Football"
   },
   {
    "title": "Alonso's Chelsea 3-4-3 Press: Live Class",
