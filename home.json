@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:31:26Z",
+ "updated": "2026-10-18T08:05:47Z",
  "week": {
   "date": "w/c 12 Oct 2026",
   "items": [
@@ -172,18 +172,18 @@
    "meta": "Live class recording"
   },
   {
-   "title": "Rest Defence Talkover",
-   "href": "https://tactxcoach.com/programs/the-importance-of-the-rest-defence",
-   "img": "https://alpha.uscreencdn.com/images/programs/3722839/horizontal/60a93e6c-99ae-478c-aa91-2dd20f2605ea.jpg?auto=webp&width=640",
-   "dur": "14 min",
-   "meta": "Talkover"
-  },
-  {
    "title": "High Pressing Class: Understanding and Implementing a High Press",
    "href": "https://tactxcoach.com/programs/high-press-analysis",
    "img": "https://alpha.uscreencdn.com/images/programs/3691769/horizontal/47d12af6-8811-4de8-9775-6357766d9ece.jpeg?auto=webp&width=640",
    "dur": "45 min",
    "meta": "Exploring the High Press"
+  },
+  {
+   "title": "Rest Defence Talkover",
+   "href": "https://tactxcoach.com/programs/the-importance-of-the-rest-defence",
+   "img": "https://alpha.uscreencdn.com/images/programs/3722839/horizontal/60a93e6c-99ae-478c-aa91-2dd20f2605ea.jpg?auto=webp&width=640",
+   "dur": "14 min",
+   "meta": "Talkover"
   }
  ]
 }
