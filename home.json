@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-18T15:02:44Z",
+ "updated": "2026-10-19T08:03:11Z",
  "week": {
-  "date": "w/c 12 Oct 2026",
+  "date": "w/c 19 Oct 2026",
   "items": [
-   {
-    "kind": "Full class added, 17 Oct",
-    "name": "Attacking Transition: Retaining the Ball, 20 practices plus the 61 min class",
-    "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-    "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640"
-   },
    {
     "kind": "Tactical analysis, 14 Oct",
     "name": "Scouting Report: Morgan Rogers",
     "href": "https://tactxcoach.com/programs/morgan-rogers-scouting-report",
     "img": "https://alpha.uscreencdn.com/assets%2Fpage-builder%2F00-header.1791963591.png?width=640"
+   },
+   {
+    "kind": "New collection, 9 Oct",
+    "name": "Attacking Transition: Retaining the Ball, all 20 practices",
+    "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+    "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640"
    }
   ]
  },
@@ -121,17 +121,17 @@
    "free": false
   },
   {
-   "title": "The Red Bull Model and Methodology",
-   "href": "https://tactxcoach.com/programs/collection-qjxt9v1rw1w",
-   "img": "https://alpha.uscreencdn.com/images/programs/2884915/horizontal/34be52e1-f2a8-441b-90bd-7257b4fa9a1b.jpeg?auto=webp&width=640",
-   "meta": "18 videos",
-   "free": false
-  },
-  {
    "title": "The Individual: Mastering the Game",
    "href": "https://tactxcoach.com/programs/the-individual-mastering-the-game",
    "img": "https://alpha.uscreencdn.com/images/programs/3840630/horizontal/44a5edd7-d731-422a-a544-e4aa1678c976.jpeg?auto=webp&width=640",
    "meta": "73 videos, annual plan",
+   "free": false
+  },
+  {
+   "title": "The Red Bull Model and Methodology",
+   "href": "https://tactxcoach.com/programs/collection-qjxt9v1rw1w",
+   "img": "https://alpha.uscreencdn.com/images/programs/2884915/horizontal/34be52e1-f2a8-441b-90bd-7257b4fa9a1b.jpeg?auto=webp&width=640",
+   "meta": "18 videos",
    "free": false
   },
   {
@@ -179,11 +179,11 @@
    "meta": "Exploring the High Press"
   },
   {
-   "title": "Rest Defence Talkover",
-   "href": "https://tactxcoach.com/programs/the-importance-of-the-rest-defence",
-   "img": "https://alpha.uscreencdn.com/images/programs/3722839/horizontal/60a93e6c-99ae-478c-aa91-2dd20f2605ea.jpg?auto=webp&width=640",
-   "dur": "14 min",
-   "meta": "Talkover"
+   "title": "Alonso's Chelsea: The Full Class",
+   "href": "https://tactxcoach.com/programs/xabi-alonso-chelsea-343-press-transitions",
+   "img": "https://alpha.uscreencdn.com/images/programs/4334171/horizontal/37f92c1e-266d-4dcf-a4d9-fc824698730d.jpg?auto=webp&width=640",
+   "dur": "62 min",
+   "meta": "Live class recording"
   }
  ]
 }
