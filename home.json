@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-19T08:03:11Z",
+ "updated": "2026-10-19T13:32:18Z",
  "week": {
   "date": "w/c 19 Oct 2026",
   "items": [
+   {
+    "kind": "New practice, 19 Oct",
+    "name": "The 3v3 Game: 2v2 Practice 6",
+    "href": "https://tactxcoach.com/programs/2v2-practice-06",
+    "img": "https://alpha.uscreencdn.com/images/programs/4400078/horizontal/6abd31b5-ec8b-49e7-932b-a22ba0e8d0e8.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "Tactical analysis, 14 Oct",
     "name": "Scouting Report: Morgan Rogers",
@@ -63,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 2v2 Practice 6",
+   "href": "https://tactxcoach.com/programs/2v2-practice-06",
+   "img": "https://alpha.uscreencdn.com/images/programs/4400078/horizontal/6abd31b5-ec8b-49e7-932b-a22ba0e8d0e8.jpeg?auto=webp&width=640",
+   "dur": "1:43",
+   "date": "19 October"
+  },
+  {
    "title": "Attacking Transition: Retaining the Ball",
    "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
    "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
@@ -103,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4353921/horizontal/091610d9-a00f-4b49-bd62-f85bda03b06c.jpeg?auto=webp&width=640",
    "dur": "2:02",
    "date": "23 September"
-  },
-  {
-   "title": "The 3v3 Game: 2v1 Practice 7",
-   "href": "https://tactxcoach.com/programs/2v1-practice-07",
-   "img": "https://alpha.uscreencdn.com/images/programs/4349773/horizontal/87d306ca-5c28-48a9-8fef-141fad1d4df1.jpeg?auto=webp&width=640",
-   "dur": "1:53",
-   "date": "17 September"
   }
  ],
  "mwCollections": [
@@ -118,6 +124,13 @@
    "href": "https://tactxcoach.com/programs/carrick-collection",
    "img": "https://alpha.uscreencdn.com/images/programs/4050412/horizontal/cbb1b5ab-b166-4c50-8f2f-49744008c3bc.jpg?auto=webp&width=640",
    "meta": "174 videos",
+   "free": false
+  },
+  {
+   "title": "Attacking Transition: Retaining the Ball",
+   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
+   "meta": "21 videos",
    "free": false
   },
   {
@@ -132,13 +145,6 @@
    "href": "https://tactxcoach.com/programs/collection-qjxt9v1rw1w",
    "img": "https://alpha.uscreencdn.com/images/programs/2884915/horizontal/34be52e1-f2a8-441b-90bd-7257b4fa9a1b.jpeg?auto=webp&width=640",
    "meta": "18 videos",
-   "free": false
-  },
-  {
-   "title": "Attacking Transition: Retaining the Ball",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
-   "meta": "21 videos",
    "free": false
   },
   {
