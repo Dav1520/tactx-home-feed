@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-24T01:11:14Z",
+ "updated": "2026-10-24T10:22:29Z",
  "week": {
   "date": "w/c 19 Oct 2026",
   "items": [
+   {
+    "kind": "Added since 19 Oct",
+    "name": "6 new 2v2 and 3v2 practices from The 3v3 Game",
+    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
+    "img": "https://alpha.uscreencdn.com/images/programs/4400861/horizontal/ca7f8031-d1a9-44d1-a11f-fe9ff62a0ed2.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "Tactical analysis, 23 Oct",
     "name": "PSG 4-2 Barcelona: How Luis Enrique's PSG Escaped Barcelona's Press",
     "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
     "img": "https://alpha.uscreencdn.com/images/programs/4404019/horizontal/c23e6921-1a2c-447d-8683-421df21051db.jpeg?auto=webp&width=640"
-   },
-   {
-    "kind": "Added since 19 Oct",
-    "name": "5 new 2v2 practices from The 3v3 Game",
-    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
-    "img": "https://alpha.uscreencdn.com/images/programs/4400861/horizontal/ca7f8031-d1a9-44d1-a11f-fe9ff62a0ed2.jpeg?auto=webp&width=640"
    },
    {
     "kind": "Tactical analysis, 14 Oct",
@@ -69,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v2 Practice 1",
+   "href": "https://tactxcoach.com/programs/3v2-practice-01",
+   "img": "https://alpha.uscreencdn.com/images/programs/4405263/horizontal/6cd2b82f-7ce3-4e33-8485-fca96326432f.jpeg?auto=webp&width=640",
+   "dur": "1:29",
+   "date": "24 October"
+  },
+  {
    "title": "The 3v3 Game: 2v2 Practice 10",
    "href": "https://tactxcoach.com/programs/2v2-practice-10",
    "img": "https://alpha.uscreencdn.com/images/programs/4400937/horizontal/d8b61cb7-c183-48e2-bf87-44b60958d7ae.jpeg?auto=webp&width=640",
@@ -109,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
    "dur": "20 practices",
    "date": "9 October"
-  },
-  {
-   "title": "The 3v3 Game: 2v2 Practice 5",
-   "href": "https://tactxcoach.com/programs/the-3v3-game-2v2-practice-5",
-   "img": "https://alpha.uscreencdn.com/images/programs/4359131/horizontal/d3a934a2-d154-4e7c-becd-fba41c34966a.jpeg?auto=webp&width=640",
-   "dur": "1:30",
-   "date": "28 September"
   }
  ],
  "mwCollections": [
