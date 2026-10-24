@@ -1,11 +1,17 @@
 {
- "updated": "2026-10-21T10:21:37Z",
+ "updated": "2026-10-24T01:11:14Z",
  "week": {
   "date": "w/c 19 Oct 2026",
   "items": [
    {
+    "kind": "Tactical analysis, 23 Oct",
+    "name": "PSG 4-2 Barcelona: How Luis Enrique's PSG Escaped Barcelona's Press",
+    "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
+    "img": "https://alpha.uscreencdn.com/images/programs/4404019/horizontal/c23e6921-1a2c-447d-8683-421df21051db.jpeg?auto=webp&width=640"
+   },
+   {
     "kind": "Added since 19 Oct",
-    "name": "3 new 2v2 practices from The 3v3 Game",
+    "name": "5 new 2v2 practices from The 3v3 Game",
     "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
     "img": "https://alpha.uscreencdn.com/images/programs/4400861/horizontal/ca7f8031-d1a9-44d1-a11f-fe9ff62a0ed2.jpeg?auto=webp&width=640"
    },
@@ -14,16 +20,17 @@
     "name": "Scouting Report: Morgan Rogers",
     "href": "https://tactxcoach.com/programs/morgan-rogers-scouting-report",
     "img": "https://alpha.uscreencdn.com/assets%2Fpage-builder%2F00-header.1791963591.png?width=640"
-   },
-   {
-    "kind": "New collection, 9 Oct",
-    "name": "Attacking Transition: Retaining the Ball, all 20 practices",
-    "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-    "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640"
    }
   ]
  },
  "analysis": [
+  {
+   "title": "PSG 4-2 Barcelona: How Luis Enrique's PSG Escaped Barcelona's Press",
+   "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4404019/horizontal/c23e6921-1a2c-447d-8683-421df21051db.jpeg?auto=webp&width=640",
+   "tag": "ARTICLE + CLASS",
+   "date": "23 October 2026"
+  },
   {
    "title": "Scouting Report: Morgan Rogers",
    "href": "https://tactxcoach.com/programs/morgan-rogers-scouting-report",
@@ -58,16 +65,23 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4359087/horizontal/ca13ec07-1b6f-49b9-afa2-aba03c27017b.png?auto=webp&width=640",
    "tag": "ARTICLE + CLASS",
    "date": "23 September 2026"
-  },
-  {
-   "title": "What Is Scanning in Football? A Coaching Guide",
-   "href": "https://tactxcoach.com/programs/what-is-scanning-in-football",
-   "img": "https://alpha.uscreencdn.com/images/programs/4351163/horizontal/34d15358-7e1c-4e5f-9381-a85c5a32ffec.jpeg?auto=webp&width=640",
-   "tag": "COACHING GUIDE",
-   "date": "16 September 2026"
   }
  ],
  "releases": [
+  {
+   "title": "The 3v3 Game: 2v2 Practice 10",
+   "href": "https://tactxcoach.com/programs/2v2-practice-10",
+   "img": "https://alpha.uscreencdn.com/images/programs/4400937/horizontal/d8b61cb7-c183-48e2-bf87-44b60958d7ae.jpeg?auto=webp&width=640",
+   "dur": "1:43",
+   "date": "23 October"
+  },
+  {
+   "title": "The 3v3 Game: 2v2 Practice 9",
+   "href": "https://tactxcoach.com/programs/2v2-practice-09",
+   "img": "https://alpha.uscreencdn.com/images/programs/4400913/horizontal/edb68e9c-3548-41c3-bbb0-15e7715cd643.jpeg?auto=webp&width=640",
+   "dur": "1:33",
+   "date": "22 October"
+  },
   {
    "title": "The 3v3 Game: 2v2 Practice 8",
    "href": "https://tactxcoach.com/programs/2v2-practice-08",
@@ -102,20 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4359131/horizontal/d3a934a2-d154-4e7c-becd-fba41c34966a.jpeg?auto=webp&width=640",
    "dur": "1:30",
    "date": "28 September"
-  },
-  {
-   "title": "The 3v3 Game: 2v2 Practice 4",
-   "href": "https://tactxcoach.com/programs/the-3v3-game-2v2-practice-4",
-   "img": "https://alpha.uscreencdn.com/images/programs/4358244/horizontal/64046155-14a2-4792-a219-fbe8a0c9a2b5.jpeg?auto=webp&width=640",
-   "dur": "1:39",
-   "date": "26 September"
-  },
-  {
-   "title": "The 3v3 Game: 2v2 Practice 3",
-   "href": "https://tactxcoach.com/programs/the-3v3-game-2v2-practice-3",
-   "img": "https://alpha.uscreencdn.com/images/programs/4357480/horizontal/42bf6db7-23e5-442c-93ae-5f8c0a99b2e2.jpeg?auto=webp&width=640",
-   "dur": "2:37",
-   "date": "25 September"
   }
  ],
  "mwCollections": [
@@ -134,6 +134,13 @@
    "free": false
   },
   {
+   "title": "Pep Guardiola Training Methodology",
+   "href": "https://tactxcoach.com/programs/collection-vbxyxgzzqic",
+   "img": "https://alpha.uscreencdn.com/images/programs/3182924/horizontal/c9e5a4a3-85d2-4fa4-94bb-e4417a6173c5.jpg?auto=webp&width=640",
+   "meta": "30 videos",
+   "free": false
+  },
+  {
    "title": "The Individual: Mastering the Game",
    "href": "https://tactxcoach.com/programs/the-individual-mastering-the-game",
    "img": "https://alpha.uscreencdn.com/images/programs/3840630/horizontal/44a5edd7-d731-422a-a544-e4aa1678c976.jpeg?auto=webp&width=640",
@@ -146,28 +153,21 @@
    "img": "https://alpha.uscreencdn.com/images/programs/2884915/horizontal/34be52e1-f2a8-441b-90bd-7257b4fa9a1b.jpeg?auto=webp&width=640",
    "meta": "18 videos",
    "free": false
-  },
-  {
-   "title": "Pep Guardiola Training Methodology",
-   "href": "https://tactxcoach.com/programs/collection-vbxyxgzzqic",
-   "img": "https://alpha.uscreencdn.com/images/programs/3182924/horizontal/c9e5a4a3-85d2-4fa4-94bb-e4417a6173c5.jpg?auto=webp&width=640",
-   "meta": "30 videos",
-   "free": false
   }
  ],
  "mwVideos": [
-  {
-   "title": "Brighton 3-0 Arsenal: The Full Class",
-   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
-   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
-   "dur": "68 min",
-   "meta": "Live class recording"
-  },
   {
    "title": "Klopp's Germany: The Full Class",
    "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
    "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
    "dur": "51 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "Brighton 3-0 Arsenal: The Full Class",
+   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
+   "dur": "68 min",
    "meta": "Live class recording"
   },
   {
@@ -185,11 +185,11 @@
    "meta": "Exploring the High Press"
   },
   {
-   "title": "Alonso's Chelsea: The Full Class",
-   "href": "https://tactxcoach.com/programs/xabi-alonso-chelsea-343-press-transitions",
-   "img": "https://alpha.uscreencdn.com/images/programs/4334171/horizontal/37f92c1e-266d-4dcf-a4d9-fc824698730d.jpg?auto=webp&width=640",
-   "dur": "62 min",
-   "meta": "Live class recording"
+   "title": "Retaining the Ball: The Full Class",
+   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+   "img": "https://alpha.uscreencdn.com/images/programs/4399310/horizontal/cf0ac8d1-59af-490d-99b8-97bf3d1a9f4f.jpg?auto=webp&width=640",
+   "dur": "61 min",
+   "meta": "Attacking Transition: Retaining the Ball"
   }
  ]
 }
