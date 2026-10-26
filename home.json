@@ -1,25 +1,19 @@
 {
- "updated": "2026-10-24T18:02:25Z",
+ "updated": "2026-10-26T11:22:07Z",
  "week": {
-  "date": "w/c 19 Oct 2026",
+  "date": "w/c 26 Oct 2026",
   "items": [
    {
-    "kind": "Added since 19 Oct",
-    "name": "6 new 2v2 and 3v2 practices from The 3v3 Game",
-    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
-    "img": "https://alpha.uscreencdn.com/images/programs/4400861/horizontal/ca7f8031-d1a9-44d1-a11f-fe9ff62a0ed2.jpeg?auto=webp&width=640"
+    "kind": "New practice, 26 Oct",
+    "name": "The 3v3 Game: 3v2 Practice 2",
+    "href": "https://tactxcoach.com/programs/3v2-practice-02",
+    "img": "https://alpha.uscreencdn.com/images/programs/4406666/horizontal/44d0f65d-ec81-4ee7-9e8f-7fa6d78f079d.jpeg?auto=webp&width=640"
    },
    {
     "kind": "Tactical analysis, 23 Oct",
     "name": "PSG 4-2 Barcelona: How Luis Enrique's PSG Escaped Barcelona's Press",
     "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
     "img": "https://alpha.uscreencdn.com/images/programs/4404019/horizontal/c23e6921-1a2c-447d-8683-421df21051db.jpeg?auto=webp&width=640"
-   },
-   {
-    "kind": "Tactical analysis, 14 Oct",
-    "name": "Scouting Report: Morgan Rogers",
-    "href": "https://tactxcoach.com/programs/morgan-rogers-scouting-report",
-    "img": "https://alpha.uscreencdn.com/assets%2Fpage-builder%2F00-header.1791963591.png?width=640"
    }
   ]
  },
@@ -69,6 +63,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v2 Practice 2",
+   "href": "https://tactxcoach.com/programs/3v2-practice-02",
+   "img": "https://alpha.uscreencdn.com/images/programs/4406666/horizontal/44d0f65d-ec81-4ee7-9e8f-7fa6d78f079d.jpeg?auto=webp&width=640",
+   "dur": "1:28",
+   "date": "26 October"
+  },
+  {
    "title": "The 3v3 Game: 3v2 Practice 1",
    "href": "https://tactxcoach.com/programs/3v2-practice-01",
    "img": "https://alpha.uscreencdn.com/images/programs/4405263/horizontal/6cd2b82f-7ce3-4e33-8485-fca96326432f.jpeg?auto=webp&width=640",
@@ -109,13 +110,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4400078/horizontal/6abd31b5-ec8b-49e7-932b-a22ba0e8d0e8.jpeg?auto=webp&width=640",
    "dur": "1:43",
    "date": "19 October"
-  },
-  {
-   "title": "Attacking Transition: Retaining the Ball",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
-   "dur": "20 practices",
-   "date": "9 October"
   }
  ],
  "mwCollections": [
