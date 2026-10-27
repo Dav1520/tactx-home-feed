@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-26T11:22:07Z",
+ "updated": "2026-10-27T11:22:18Z",
  "week": {
   "date": "w/c 26 Oct 2026",
   "items": [
    {
-    "kind": "New practice, 26 Oct",
-    "name": "The 3v3 Game: 3v2 Practice 2",
-    "href": "https://tactxcoach.com/programs/3v2-practice-02",
-    "img": "https://alpha.uscreencdn.com/images/programs/4406666/horizontal/44d0f65d-ec81-4ee7-9e8f-7fa6d78f079d.jpeg?auto=webp&width=640"
+    "kind": "Added since 26 Oct",
+    "name": "2 new 3v2 practices from The 3v3 Game",
+    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
+    "img": "https://alpha.uscreencdn.com/images/programs/4408164/horizontal/7c5f8f78-0b51-4431-aa76-939430292fab.jpeg?auto=webp&width=640"
    },
    {
     "kind": "Tactical analysis, 23 Oct",
@@ -63,6 +63,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v2 Practice 3",
+   "href": "https://tactxcoach.com/programs/3v2-practice-03",
+   "img": "https://alpha.uscreencdn.com/images/programs/4408164/horizontal/7c5f8f78-0b51-4431-aa76-939430292fab.jpeg?auto=webp&width=640",
+   "dur": "1:29",
+   "date": "27 October"
+  },
+  {
    "title": "The 3v3 Game: 3v2 Practice 2",
    "href": "https://tactxcoach.com/programs/3v2-practice-02",
    "img": "https://alpha.uscreencdn.com/images/programs/4406666/horizontal/44d0f65d-ec81-4ee7-9e8f-7fa6d78f079d.jpeg?auto=webp&width=640",
@@ -103,13 +110,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4400861/horizontal/ca7f8031-d1a9-44d1-a11f-fe9ff62a0ed2.jpeg?auto=webp&width=640",
    "dur": "1:18",
    "date": "20 October"
-  },
-  {
-   "title": "The 3v3 Game: 2v2 Practice 6",
-   "href": "https://tactxcoach.com/programs/2v2-practice-06",
-   "img": "https://alpha.uscreencdn.com/images/programs/4400078/horizontal/6abd31b5-ec8b-49e7-932b-a22ba0e8d0e8.jpeg?auto=webp&width=640",
-   "dur": "1:43",
-   "date": "19 October"
   }
  ],
  "mwCollections": [
