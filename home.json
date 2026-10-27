@@ -1,8 +1,14 @@
 {
- "updated": "2026-10-27T11:22:18Z",
+ "updated": "2026-10-27T15:45:35Z",
  "week": {
   "date": "w/c 26 Oct 2026",
   "items": [
+   {
+    "kind": "Tactical analysis, 27 Oct",
+    "name": "Aston Villa v Man City: Narrow In, Narrow Out",
+    "href": "https://tactxcoach.com/programs/aston-villa-v-man-city-tactical-analysis",
+    "img": "https://alpha.uscreencdn.com/images/programs/4414344/horizontal/5f772c6e-199a-4a63-bba2-f848bae4c89a.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "Added since 26 Oct",
     "name": "2 new 3v2 practices from The 3v3 Game",
@@ -18,6 +24,13 @@
   ]
  },
  "analysis": [
+  {
+   "title": "Aston Villa v Man City: Narrow In, Narrow Out",
+   "href": "https://tactxcoach.com/programs/aston-villa-v-man-city-tactical-analysis",
+   "img": "https://alpha.uscreencdn.com/images/programs/4414344/horizontal/5f772c6e-199a-4a63-bba2-f848bae4c89a.jpeg?auto=webp&width=640",
+   "tag": "ARTICLE + CLASS",
+   "date": "27 October 2026"
+  },
   {
    "title": "PSG 4-2 Barcelona: How Luis Enrique's PSG Escaped Barcelona's Press",
    "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
@@ -52,13 +65,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4364118/horizontal/e5a44cba-55f9-4caf-bf63-20cbf5c7c155.jpeg?auto=webp&width=640",
    "tag": "OPINION",
    "date": "24 September 2026"
-  },
-  {
-   "title": "Brighton 3-0 Arsenal: How Hürzeler Made Brighton Horrible to Play Against",
-   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
-   "img": "https://alpha.uscreencdn.com/images/programs/4359087/horizontal/ca13ec07-1b6f-49b9-afa2-aba03c27017b.png?auto=webp&width=640",
-   "tag": "ARTICLE + CLASS",
-   "date": "23 September 2026"
   }
  ],
  "releases": [
