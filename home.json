@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-27T15:45:35Z",
+ "updated": "2026-10-28T11:21:50Z",
  "week": {
   "date": "w/c 26 Oct 2026",
   "items": [
+   {
+    "kind": "Added since 26 Oct",
+    "name": "3 new 3v2 practices from The 3v3 Game",
+    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
+    "img": "https://alpha.uscreencdn.com/images/programs/4408164/horizontal/7c5f8f78-0b51-4431-aa76-939430292fab.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "Tactical analysis, 27 Oct",
     "name": "Aston Villa v Man City: Narrow In, Narrow Out",
     "href": "https://tactxcoach.com/programs/aston-villa-v-man-city-tactical-analysis",
     "img": "https://alpha.uscreencdn.com/images/programs/4414344/horizontal/5f772c6e-199a-4a63-bba2-f848bae4c89a.jpeg?auto=webp&width=640"
-   },
-   {
-    "kind": "Added since 26 Oct",
-    "name": "2 new 3v2 practices from The 3v3 Game",
-    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
-    "img": "https://alpha.uscreencdn.com/images/programs/4408164/horizontal/7c5f8f78-0b51-4431-aa76-939430292fab.jpeg?auto=webp&width=640"
    },
    {
     "kind": "Tactical analysis, 23 Oct",
@@ -69,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v2 Practice 4",
+   "href": "https://tactxcoach.com/programs/3v2-practice-04",
+   "img": "https://alpha.uscreencdn.com/images/programs/4408214/horizontal/19df0292-dafb-48f6-b28e-f7cccf03202a.jpeg?auto=webp&width=640",
+   "dur": "1:33",
+   "date": "28 October"
+  },
+  {
    "title": "The 3v3 Game: 3v2 Practice 3",
    "href": "https://tactxcoach.com/programs/3v2-practice-03",
    "img": "https://alpha.uscreencdn.com/images/programs/4408164/horizontal/7c5f8f78-0b51-4431-aa76-939430292fab.jpeg?auto=webp&width=640",
@@ -109,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4400891/horizontal/1a873620-6155-4df5-af58-59f1458a66d2.jpeg?auto=webp&width=640",
    "dur": "1:33",
    "date": "21 October"
-  },
-  {
-   "title": "The 3v3 Game: 2v2 Practice 7",
-   "href": "https://tactxcoach.com/programs/2v2-practice-07",
-   "img": "https://alpha.uscreencdn.com/images/programs/4400861/horizontal/ca7f8031-d1a9-44d1-a11f-fe9ff62a0ed2.jpeg?auto=webp&width=640",
-   "dur": "1:18",
-   "date": "20 October"
   }
  ],
  "mwCollections": [
@@ -164,17 +164,17 @@
    "meta": "Live class recording"
   },
   {
-   "title": "Brighton 3-0 Arsenal: The Full Class",
-   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
-   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
-   "dur": "68 min",
-   "meta": "Live class recording"
-  },
-  {
    "title": "England 2-3 Spain: The Full Class",
    "href": "https://tactxcoach.com/programs/england-2-3-spain-pressing-analysis",
    "img": "https://alpha.uscreencdn.com/images/programs/4372308/horizontal/73ffa2f4-ba7c-4af6-b403-3d69cbc57e9a.jpg?auto=webp&width=640",
    "dur": "64 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "Brighton 3-0 Arsenal: The Full Class",
+   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
+   "dur": "68 min",
    "meta": "Live class recording"
   },
   {
