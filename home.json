@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T11:21:50Z",
+ "updated": "2026-10-29T11:28:44Z",
  "week": {
   "date": "w/c 26 Oct 2026",
   "items": [
    {
     "kind": "Added since 26 Oct",
-    "name": "3 new 3v2 practices from The 3v3 Game",
+    "name": "4 new 3v2 practices from The 3v3 Game",
     "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
     "img": "https://alpha.uscreencdn.com/images/programs/4408164/horizontal/7c5f8f78-0b51-4431-aa76-939430292fab.jpeg?auto=webp&width=640"
    },
@@ -69,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v2 Practice 5",
+   "href": "https://tactxcoach.com/programs/3v2-practice-05",
+   "img": "https://alpha.uscreencdn.com/images/programs/4408216/horizontal/c3954a72-d139-458c-ac68-ef0437f28389.jpeg?auto=webp&width=640",
+   "dur": "1:26",
+   "date": "29 October"
+  },
+  {
    "title": "The 3v3 Game: 3v2 Practice 4",
    "href": "https://tactxcoach.com/programs/3v2-practice-04",
    "img": "https://alpha.uscreencdn.com/images/programs/4408214/horizontal/19df0292-dafb-48f6-b28e-f7cccf03202a.jpeg?auto=webp&width=640",
@@ -109,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4400913/horizontal/edb68e9c-3548-41c3-bbb0-15e7715cd643.jpeg?auto=webp&width=640",
    "dur": "1:33",
    "date": "22 October"
-  },
-  {
-   "title": "The 3v3 Game: 2v2 Practice 8",
-   "href": "https://tactxcoach.com/programs/2v2-practice-08",
-   "img": "https://alpha.uscreencdn.com/images/programs/4400891/horizontal/1a873620-6155-4df5-af58-59f1458a66d2.jpeg?auto=webp&width=640",
-   "dur": "1:33",
-   "date": "21 October"
   }
  ],
  "mwCollections": [
@@ -171,17 +171,17 @@
    "meta": "Live class recording"
   },
   {
-   "title": "Brighton 3-0 Arsenal: The Full Class",
-   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
-   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
-   "dur": "68 min",
-   "meta": "Live class recording"
-  },
-  {
    "title": "PSG 4-2 Barcelona: The Full Class",
    "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
    "img": "https://alpha.uscreencdn.com/images/programs/4406876/horizontal/72f698ff-bce5-4b19-a5ed-58f7088551b8.jpeg?auto=webp&width=640",
    "dur": "37 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "Brighton 3-0 Arsenal: The Full Class",
+   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
+   "dur": "68 min",
    "meta": "Live class recording"
   },
   {
