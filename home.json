@@ -1,8 +1,14 @@
 {
- "updated": "2026-11-02T11:22:21Z",
+ "updated": "2026-11-02T22:10:43Z",
  "week": {
   "date": "w/c 2 Nov 2026",
   "items": [
+   {
+    "kind": "New planner, 2 Nov",
+    "name": "Tactx Season Planner: One Session a Week",
+    "href": "https://tactxcoach.com/programs/tactx-season-planner-one-session-a-week",
+    "img": "https://alpha.uscreencdn.com/images/programs/4422556/horizontal/d7cf8028-3cf4-42e9-a5ed-040730d62d44.jpg?auto=webp&width=640"
+   },
    {
     "kind": "New practice, 31 Oct",
     "name": "The 3v3 Game: 3v2 Practice 7",
