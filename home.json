@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:11:42Z",
+ "updated": "2026-11-05T19:02:10Z",
  "week": {
   "date": "w/c 2 Nov 2026",
   "items": [
@@ -178,17 +178,17 @@
    "meta": "Attacking Transition: Retaining the Ball"
   },
   {
-   "title": "Brighton 3-0 Arsenal: The Full Class",
-   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
-   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
-   "dur": "68 min",
-   "meta": "Live class recording"
-  },
-  {
    "title": "Aston Villa v Man City: The Full Class",
    "href": "https://tactxcoach.com/programs/aston-villa-v-man-city-tactical-analysis",
    "img": "https://alpha.uscreencdn.com/images/programs/4414713/horizontal/ef193bf4-04a1-4b16-812e-8ade4e26f6ac.jpeg?auto=webp&width=640",
    "dur": "41 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "Brighton 3-0 Arsenal: The Full Class",
+   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
+   "dur": "68 min",
    "meta": "Live class recording"
   }
  ]
