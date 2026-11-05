@@ -1,8 +1,14 @@
 {
- "updated": "2026-11-05T11:21:58Z",
+ "updated": "2026-11-05T14:11:42Z",
  "week": {
   "date": "w/c 2 Nov 2026",
   "items": [
+   {
+    "kind": "Full class and booklet added, 5 Nov",
+    "name": "Attacking Transition: Risking the Ball, the 32 min class plus a new digital booklet",
+    "href": "https://tactxcoach.com/programs/attacking-transition-risk-practice01-season-01",
+    "img": "https://alpha.uscreencdn.com/images/programs/3545453/horizontal/282f32db-565d-4b9a-ac0e-f9aa3aa21f9e.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "New practice, 5 Nov",
     "name": "The 3v3 Game: 3v2 Practice 8",
@@ -14,12 +20,6 @@
     "name": "Tactx Season Planner: One Session a Week",
     "href": "https://tactxcoach.com/programs/tactx-season-planner-one-session-a-week",
     "img": "https://alpha.uscreencdn.com/images/programs/4422556/horizontal/d7cf8028-3cf4-42e9-a5ed-040730d62d44.jpg?auto=webp&width=640"
-   },
-   {
-    "kind": "New practice, 31 Oct",
-    "name": "The 3v3 Game: 3v2 Practice 7",
-    "href": "https://tactxcoach.com/programs/3v2-practice-07",
-    "img": "https://alpha.uscreencdn.com/images/programs/4414343/horizontal/5626ea40-d698-4815-bed3-1a1fde288e8a.jpeg?auto=webp&width=640"
    }
   ]
  },
