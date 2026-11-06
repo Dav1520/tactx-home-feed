@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-05T19:02:10Z",
+ "updated": "2026-11-06T11:22:06Z",
  "week": {
   "date": "w/c 2 Nov 2026",
   "items": [
+   {
+    "kind": "Added since 2 Nov",
+    "name": "2 new 3v2 practices from The 3v3 Game",
+    "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
+    "img": "https://alpha.uscreencdn.com/images/programs/4426723/horizontal/4e234b10-f051-48ad-bdcc-1de049a6f331.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "Full class and booklet added, 5 Nov",
     "name": "Attacking Transition: Risking the Ball, the 32 min class plus a new digital booklet",
     "href": "https://tactxcoach.com/programs/attacking-transition-risk-practice01-season-01",
     "img": "https://alpha.uscreencdn.com/images/programs/3545453/horizontal/282f32db-565d-4b9a-ac0e-f9aa3aa21f9e.jpeg?auto=webp&width=640"
-   },
-   {
-    "kind": "New practice, 5 Nov",
-    "name": "The 3v3 Game: 3v2 Practice 8",
-    "href": "https://tactxcoach.com/programs/3v2-practice-08",
-    "img": "https://alpha.uscreencdn.com/images/programs/4426719/horizontal/28ad439a-c967-42a8-9d8f-27ab0d732661.jpeg?auto=webp&width=640"
    },
    {
     "kind": "New planner, 2 Nov",
@@ -69,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v2 Practice 9",
+   "href": "https://tactxcoach.com/programs/3v2-practice-09",
+   "img": "https://alpha.uscreencdn.com/images/programs/4426723/horizontal/4e234b10-f051-48ad-bdcc-1de049a6f331.jpeg?auto=webp&width=640",
+   "dur": "1:13",
+   "date": "6 November"
+  },
+  {
    "title": "The 3v3 Game: 3v2 Practice 8",
    "href": "https://tactxcoach.com/programs/3v2-practice-08",
    "img": "https://alpha.uscreencdn.com/images/programs/4426719/horizontal/28ad439a-c967-42a8-9d8f-27ab0d732661.jpeg?auto=webp&width=640",
@@ -109,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4408164/horizontal/7c5f8f78-0b51-4431-aa76-939430292fab.jpeg?auto=webp&width=640",
    "dur": "1:29",
    "date": "27 October"
-  },
-  {
-   "title": "The 3v3 Game: 3v2 Practice 2",
-   "href": "https://tactxcoach.com/programs/3v2-practice-02",
-   "img": "https://alpha.uscreencdn.com/images/programs/4406666/horizontal/44d0f65d-ec81-4ee7-9e8f-7fa6d78f079d.jpeg?auto=webp&width=640",
-   "dur": "1:28",
-   "date": "26 October"
   }
  ],
  "mwCollections": [
@@ -141,17 +141,17 @@
    "free": false
   },
   {
+   "title": "Attacking Transition: Risking the Ball",
+   "href": "https://tactxcoach.com/programs/attacking-transition-risk-practice01-season-01",
+   "img": "https://alpha.uscreencdn.com/images/programs/3545453/horizontal/282f32db-565d-4b9a-ac0e-f9aa3aa21f9e.jpeg?auto=webp&width=640",
+   "meta": "21 videos",
+   "free": false
+  },
+  {
    "title": "The Individual: Mastering the Game",
    "href": "https://tactxcoach.com/programs/the-individual-mastering-the-game",
    "img": "https://alpha.uscreencdn.com/images/programs/3840630/horizontal/44a5edd7-d731-422a-a544-e4aa1678c976.jpeg?auto=webp&width=640",
    "meta": "73 videos, annual plan",
-   "free": false
-  },
-  {
-   "title": "Attacking Transition: Risking the Ball",
-   "href": "https://tactxcoach.com/programs/attacking-transition-risk-practice01-season-01",
-   "img": "https://alpha.uscreencdn.com/images/programs/3545453/horizontal/282f32db-565d-4b9a-ac0e-f9aa3aa21f9e.jpeg?auto=webp&width=640",
-   "meta": "20 videos",
    "free": false
   }
  ],
