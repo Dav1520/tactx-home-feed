@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-09T10:19:44Z",
+ "updated": "2026-11-09T15:37:12Z",
  "week": {
   "date": "w/c 9 Nov 2026",
   "items": [
    {
-    "kind": "Live class, Mon 9 Nov, 2pm UK",
-    "name": "Tasos Douvikas: The Number 9 Role at Como",
-    "href": "https://tactxcoach.com/programs/tasos-douvikas-number-9-live-class",
-    "img": "https://alpha.uscreencdn.com/images/programs/4430970/horizontal/3a5c4dbc-5a76-4a45-a034-b17af2c91dfd.jpeg?auto=webp&width=640"
+    "kind": "Tactical analysis, 9 Nov",
+    "name": "The Number 9 Role: Como's Tasos Douvikas",
+    "href": "https://tactxcoach.com/programs/tasos-douvikas-number-9-role",
+    "img": "https://alpha.uscreencdn.com/images/programs/4427963/horizontal/231110a1-f804-4447-a312-c381debf283e.jpeg?auto=webp&width=640"
    },
    {
     "kind": "Tactical analysis, 27 Oct",
@@ -18,6 +18,13 @@
   ]
  },
  "analysis": [
+  {
+   "title": "The Number 9 Role: Como's Tasos Douvikas",
+   "href": "https://tactxcoach.com/programs/tasos-douvikas-number-9-role",
+   "img": "https://alpha.uscreencdn.com/images/programs/4427963/horizontal/231110a1-f804-4447-a312-c381debf283e.jpeg?auto=webp&width=640",
+   "tag": "ARTICLE + CLASS",
+   "date": "9 November 2026"
+  },
   {
    "title": "Aston Villa v Man City: Narrow In, Narrow Out",
    "href": "https://tactxcoach.com/programs/aston-villa-v-man-city-tactical-analysis",
@@ -52,13 +59,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4370771/horizontal/46ebe065-17a1-40c1-b608-01f612093257.jpeg?auto=webp&width=640",
    "tag": "ARTICLE + CLASS",
    "date": "29 September 2026"
-  },
-  {
-   "title": "Anthony Gordon Says It's Not in England's DNA. We Think He's Diagnosing the Wrong Problem",
-   "href": "https://tactxcoach.com/programs/anthony-gordon-england-dna",
-   "img": "https://alpha.uscreencdn.com/images/programs/4364118/horizontal/e5a44cba-55f9-4caf-bf63-20cbf5c7c155.jpeg?auto=webp&width=640",
-   "tag": "OPINION",
-   "date": "24 September 2026"
   }
  ],
  "releases": [
