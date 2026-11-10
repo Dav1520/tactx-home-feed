@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:37:12Z",
+ "updated": "2026-11-10T19:02:58Z",
  "week": {
   "date": "w/c 9 Nov 2026",
   "items": [
@@ -151,17 +151,17 @@
  ],
  "mwVideos": [
   {
-   "title": "Klopp's Germany: The Full Class",
-   "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
-   "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
-   "dur": "51 min",
-   "meta": "Live class recording"
-  },
-  {
    "title": "PSG 4-2 Barcelona: The Full Class",
    "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
    "img": "https://alpha.uscreencdn.com/images/programs/4406876/horizontal/72f698ff-bce5-4b19-a5ed-58f7088551b8.jpeg?auto=webp&width=640",
    "dur": "37 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "Klopp's Germany: The Full Class",
+   "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
+   "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
+   "dur": "51 min",
    "meta": "Live class recording"
   },
   {
