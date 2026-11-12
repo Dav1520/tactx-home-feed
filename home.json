@@ -1,8 +1,14 @@
 {
- "updated": "2026-11-10T19:02:58Z",
+ "updated": "2026-11-12T11:21:21Z",
  "week": {
   "date": "w/c 9 Nov 2026",
   "items": [
+   {
+    "kind": "New practice, 12 Nov",
+    "name": "The 3v3 Game: 3v3 Practice 1",
+    "href": "https://tactxcoach.com/programs/3v3-practice-01",
+    "img": "https://alpha.uscreencdn.com/images/programs/4434854/horizontal/52def789-f311-4015-95bf-bb431ec8d7d5.jpeg?auto=webp&width=640"
+   },
    {
     "kind": "Tactical analysis, 9 Nov",
     "name": "The Number 9 Role: Como's Tasos Douvikas",
@@ -63,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v3 Practice 1",
+   "href": "https://tactxcoach.com/programs/3v3-practice-01",
+   "img": "https://alpha.uscreencdn.com/images/programs/4434854/horizontal/52def789-f311-4015-95bf-bb431ec8d7d5.jpeg?auto=webp&width=640",
+   "dur": "1:33",
+   "date": "12 November"
+  },
+  {
    "title": "The 3v3 Game: 3v2 Practice 10",
    "href": "https://tactxcoach.com/programs/3v2-practice-10",
    "img": "https://alpha.uscreencdn.com/images/programs/4426738/horizontal/7e7f6a2a-cc61-42e8-90f1-f87aed422c0a.jpeg?auto=webp&width=640",
@@ -103,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4408216/horizontal/c3954a72-d139-458c-ac68-ef0437f28389.jpeg?auto=webp&width=640",
    "dur": "1:26",
    "date": "29 October"
-  },
-  {
-   "title": "The 3v3 Game: 3v2 Practice 4",
-   "href": "https://tactxcoach.com/programs/3v2-practice-04",
-   "img": "https://alpha.uscreencdn.com/images/programs/4408214/horizontal/19df0292-dafb-48f6-b28e-f7cccf03202a.jpeg?auto=webp&width=640",
-   "dur": "1:33",
-   "date": "28 October"
   }
  ],
  "mwCollections": [
