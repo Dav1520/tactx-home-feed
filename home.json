@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:22:20Z",
+ "updated": "2026-11-14T14:40:11Z",
  "week": {
   "date": "w/c 9 Nov 2026",
   "items": [
@@ -127,17 +127,17 @@
    "free": false
   },
   {
-   "title": "Attacking Transition: Retaining the Ball",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
-   "meta": "21 videos",
-   "free": false
-  },
-  {
    "title": "Pep Guardiola Training Methodology",
    "href": "https://tactxcoach.com/programs/collection-vbxyxgzzqic",
    "img": "https://alpha.uscreencdn.com/images/programs/3182924/horizontal/c9e5a4a3-85d2-4fa4-94bb-e4417a6173c5.jpg?auto=webp&width=640",
    "meta": "30 videos",
+   "free": false
+  },
+  {
+   "title": "Attacking Transition: Retaining the Ball",
+   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
+   "meta": "21 videos",
    "free": false
   },
   {
@@ -164,17 +164,17 @@
    "meta": "Live class recording"
   },
   {
-   "title": "Klopp's Germany: The Full Class",
-   "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
-   "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
-   "dur": "51 min",
-   "meta": "Live class recording"
-  },
-  {
    "title": "Aston Villa v Man City: The Full Class",
    "href": "https://tactxcoach.com/programs/aston-villa-v-man-city-tactical-analysis",
    "img": "https://alpha.uscreencdn.com/images/programs/4414713/horizontal/ef193bf4-04a1-4b16-812e-8ade4e26f6ac.jpeg?auto=webp&width=640",
    "dur": "41 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "Klopp's Germany: The Full Class",
+   "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
+   "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
+   "dur": "51 min",
    "meta": "Live class recording"
   },
   {
