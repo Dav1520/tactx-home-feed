@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:47:34Z",
+ "updated": "2026-11-18T11:21:36Z",
  "week": {
   "date": "w/c 16 Nov 2026",
   "items": [
@@ -178,18 +178,18 @@
    "meta": "Live class recording"
   },
   {
-   "title": "Attacking Transition: Retaining Class",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-   "img": "https://alpha.uscreencdn.com/images/programs/3897060/horizontal/a721f8d6-4f21-4185-bcf9-a3d495026be8.jpeg?auto=webp&width=640",
-   "dur": "61 min",
-   "meta": "Attacking Transition: Retaining the Ball"
-  },
-  {
    "title": "Klopp's Germany: The Full Class",
    "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
    "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
    "dur": "51 min",
    "meta": "Live class recording"
+  },
+  {
+   "title": "Attacking Transition: Retaining Class",
+   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+   "img": "https://alpha.uscreencdn.com/images/programs/3897060/horizontal/a721f8d6-4f21-4185-bcf9-a3d495026be8.jpeg?auto=webp&width=640",
+   "dur": "61 min",
+   "meta": "Attacking Transition: Retaining the Ball"
   }
  ]
 }
