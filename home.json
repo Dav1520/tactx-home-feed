@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-18T11:21:36Z",
+ "updated": "2026-11-19T11:22:09Z",
  "week": {
   "date": "w/c 16 Nov 2026",
   "items": [
    {
     "kind": "Added since 16 Nov",
-    "name": "2 new 3v3 practices",
+    "name": "3 new 3v3 practices",
     "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
     "img": "https://alpha.uscreencdn.com/images/programs/4440635/horizontal/8b472c66-1b61-4557-a868-e5277155cd25.jpeg?auto=webp&width=640"
    },
@@ -69,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v3 Practice 4",
+   "href": "https://tactxcoach.com/programs/3v3-practice-04",
+   "img": "https://alpha.uscreencdn.com/images/programs/4440900/horizontal/abfe518e-ee96-4fc2-b16a-9ac450d6710a.jpeg?auto=webp&width=640",
+   "dur": "1:34",
+   "date": "19 November"
+  },
+  {
    "title": "The 3v3 Game: 3v3 Practice 3",
    "href": "https://tactxcoach.com/programs/3v3-practice-03",
    "img": "https://alpha.uscreencdn.com/images/programs/4440635/horizontal/8b472c66-1b61-4557-a868-e5277155cd25.jpeg?auto=webp&width=640",
@@ -109,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4426719/horizontal/28ad439a-c967-42a8-9d8f-27ab0d732661.jpeg?auto=webp&width=640",
    "dur": "1:11",
    "date": "5 November"
-  },
-  {
-   "title": "The 3v3 Game: 3v2 Practice 7",
-   "href": "https://tactxcoach.com/programs/3v2-practice-07",
-   "img": "https://alpha.uscreencdn.com/images/programs/4414343/horizontal/5626ea40-d698-4815-bed3-1a1fde288e8a.jpeg?auto=webp&width=640",
-   "dur": "1:36",
-   "date": "31 October"
   }
  ],
  "mwCollections": [
@@ -185,11 +185,11 @@
    "meta": "Live class recording"
   },
   {
-   "title": "Attacking Transition: Retaining Class",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-   "img": "https://alpha.uscreencdn.com/images/programs/3897060/horizontal/a721f8d6-4f21-4185-bcf9-a3d495026be8.jpeg?auto=webp&width=640",
-   "dur": "61 min",
-   "meta": "Attacking Transition: Retaining the Ball"
+   "title": "Brighton 3-0 Arsenal: The Full Class",
+   "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
+   "dur": "68 min",
+   "meta": "Live class recording"
   }
  ]
 }
