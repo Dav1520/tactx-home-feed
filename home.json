@@ -1,17 +1,11 @@
 {
- "updated": "2026-11-20T11:22:28Z",
+ "updated": "2026-11-20T17:30:12Z",
  "week": {
   "date": "w/c 16 Nov 2026",
   "items": [
    {
-    "kind": "Live class, Fri 20 Nov, 3:30pm UK",
-    "name": "Risk It: How England Beat the World Champions in Transition",
-    "href": "https://tactxcoach.com/programs/england-risk-attacking-transition-live-class",
-    "img": "https://alpha.uscreencdn.com/images/programs/4444191/horizontal/2fdc9681-5ddb-45e3-935e-c769b73a9a1f.jpg?auto=webp&width=640"
-   },
-   {
-    "kind": "Tactical analysis, 19 Nov",
-    "name": "Risk It: How England Beat the World Champions in Transition",
+    "kind": "Full class added, 20 Nov",
+    "name": "Risk It: How England Beat the World Champions in Transition, the 65 min class",
     "href": "https://tactxcoach.com/programs/spain-2-3-england-risk-in-attacking-transition",
     "img": "https://alpha.uscreencdn.com/images/programs/4444295/horizontal/a707cd7b-7d63-4c80-9cc4-6298741a3b1e.jpg?auto=webp&width=640"
    },
@@ -20,6 +14,12 @@
     "name": "4 new 3v3 practices",
     "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
     "img": "https://alpha.uscreencdn.com/images/programs/4440635/horizontal/8b472c66-1b61-4557-a868-e5277155cd25.jpeg?auto=webp&width=640"
+   },
+   {
+    "kind": "Webinar, 17 Nov",
+    "name": "Building an Identity with Sergio Mullor: England Futsal Webinar",
+    "href": "https://tactxcoach.com/programs/collection-1fkm2dk-lyk",
+    "img": "https://alpha.uscreencdn.com/images/programs/4442592/horizontal/a06a6bec-ee8c-471d-b48d-e4863128c0b9.jpg?auto=webp&width=640"
    }
   ]
  },
