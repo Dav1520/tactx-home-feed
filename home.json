@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:30:12Z",
+ "updated": "2026-11-21T11:34:09Z",
  "week": {
   "date": "w/c 16 Nov 2026",
   "items": [
@@ -11,7 +11,7 @@
    },
    {
     "kind": "Added since 16 Nov",
-    "name": "4 new 3v3 practices",
+    "name": "5 new 3v3 practices",
     "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
     "img": "https://alpha.uscreencdn.com/images/programs/4440635/horizontal/8b472c66-1b61-4557-a868-e5277155cd25.jpeg?auto=webp&width=640"
    },
@@ -69,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v3 Practice 6",
+   "href": "https://tactxcoach.com/programs/3v3-practice-06",
+   "img": "https://alpha.uscreencdn.com/images/programs/4441175/horizontal/58b0c954-be69-4364-9fa7-09fb90d594ac.jpeg?auto=webp&width=640",
+   "dur": "1:27",
+   "date": "21 November"
+  },
+  {
    "title": "The 3v3 Game: 3v3 Practice 5",
    "href": "https://tactxcoach.com/programs/3v3-practice-05",
    "img": "https://alpha.uscreencdn.com/images/programs/4441048/horizontal/19d2498b-ee8d-4ef9-a3d1-45ae5a1d350a.jpeg?auto=webp&width=640",
@@ -109,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4426738/horizontal/7e7f6a2a-cc61-42e8-90f1-f87aed422c0a.jpeg?auto=webp&width=640",
    "dur": "1:27",
    "date": "7 November"
-  },
-  {
-   "title": "The 3v3 Game: 3v2 Practice 9",
-   "href": "https://tactxcoach.com/programs/3v2-practice-09",
-   "img": "https://alpha.uscreencdn.com/images/programs/4426723/horizontal/4e234b10-f051-48ad-bdcc-1de049a6f331.jpeg?auto=webp&width=640",
-   "dur": "1:13",
-   "date": "6 November"
   }
  ],
  "mwCollections": [
