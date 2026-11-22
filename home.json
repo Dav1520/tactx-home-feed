@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:34:09Z",
+ "updated": "2026-11-22T11:21:35Z",
  "week": {
   "date": "w/c 16 Nov 2026",
   "items": [
@@ -11,7 +11,7 @@
    },
    {
     "kind": "Added since 16 Nov",
-    "name": "5 new 3v3 practices",
+    "name": "6 new 3v3 practices",
     "href": "https://tactxcoach.com/categories/category-ielc6ylnize",
     "img": "https://alpha.uscreencdn.com/images/programs/4440635/horizontal/8b472c66-1b61-4557-a868-e5277155cd25.jpeg?auto=webp&width=640"
    },
@@ -69,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v3 Practice 7",
+   "href": "https://tactxcoach.com/programs/3v3-practice-07",
+   "img": "https://alpha.uscreencdn.com/images/programs/4442546/horizontal/85280e95-8a49-4ccd-b520-38c16eae2898.jpeg?auto=webp&width=640",
+   "dur": "2:14",
+   "date": "22 November"
+  },
+  {
    "title": "The 3v3 Game: 3v3 Practice 6",
    "href": "https://tactxcoach.com/programs/3v3-practice-06",
    "img": "https://alpha.uscreencdn.com/images/programs/4441175/horizontal/58b0c954-be69-4364-9fa7-09fb90d594ac.jpeg?auto=webp&width=640",
@@ -109,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4434854/horizontal/52def789-f311-4015-95bf-bb431ec8d7d5.jpeg?auto=webp&width=640",
    "dur": "1:33",
    "date": "12 November"
-  },
-  {
-   "title": "The 3v3 Game: 3v2 Practice 10",
-   "href": "https://tactxcoach.com/programs/3v2-practice-10",
-   "img": "https://alpha.uscreencdn.com/images/programs/4426738/horizontal/7e7f6a2a-cc61-42e8-90f1-f87aed422c0a.jpeg?auto=webp&width=640",
-   "dur": "1:27",
-   "date": "7 November"
   }
  ],
  "mwCollections": [
@@ -141,17 +141,17 @@
    "free": false
   },
   {
-   "title": "Attacking Transition: Retaining the Ball",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
-   "meta": "21 videos",
-   "free": false
-  },
-  {
    "title": "The Individual: Mastering the Game",
    "href": "https://tactxcoach.com/programs/the-individual-mastering-the-game",
    "img": "https://alpha.uscreencdn.com/images/programs/3840630/horizontal/44a5edd7-d731-422a-a544-e4aa1678c976.jpeg?auto=webp&width=640",
    "meta": "73 videos, annual plan",
+   "free": false
+  },
+  {
+   "title": "Attacking Transition: Retaining the Ball",
+   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
+   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
+   "meta": "21 videos",
    "free": false
   }
  ],
