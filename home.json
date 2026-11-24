@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:21:41Z",
+ "updated": "2026-11-24T11:22:16Z",
  "week": {
   "date": "w/c 23 Nov 2026",
   "items": [
@@ -142,21 +142,14 @@
    "free": false
   },
   {
-   "title": "Attacking Transition: Retaining the Ball",
-   "href": "https://tactxcoach.com/programs/attacking-transition-retaining-the-ball",
-   "img": "https://alpha.uscreencdn.com/images/programs/3908709/horizontal/8674dfb7-c36b-4e0a-9f4b-a335fc5c987c.jpeg?auto=webp&width=640",
-   "meta": "21 videos",
+   "title": "Vincent Kompany's Bayern Munich",
+   "href": "https://tactxcoach.com/programs/vincent-kompanys-bayern-munich",
+   "img": "https://alpha.uscreencdn.com/images/programs/3261951/horizontal/af5fe871-319b-4484-8691-3df64d161c93.jpg?auto=webp&width=640",
+   "meta": "15 videos",
    "free": false
   }
  ],
  "mwVideos": [
-  {
-   "title": "PSG 4-2 Barcelona: The Full Class",
-   "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
-   "img": "https://alpha.uscreencdn.com/images/programs/4406876/horizontal/72f698ff-bce5-4b19-a5ed-58f7088551b8.jpeg?auto=webp&width=640",
-   "dur": "37 min",
-   "meta": "Live class recording"
-  },
   {
    "title": "Aston Villa v Man City: The Full Class",
    "href": "https://tactxcoach.com/programs/aston-villa-v-man-city-tactical-analysis",
@@ -172,10 +165,10 @@
    "meta": "Live class recording"
   },
   {
-   "title": "Klopp's Germany: The Full Class",
-   "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
-   "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
-   "dur": "51 min",
+   "title": "PSG 4-2 Barcelona: The Full Class",
+   "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4406876/horizontal/72f698ff-bce5-4b19-a5ed-58f7088551b8.jpeg?auto=webp&width=640",
+   "dur": "37 min",
    "meta": "Live class recording"
   },
   {
@@ -183,6 +176,13 @@
    "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
    "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
    "dur": "68 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "Klopp's Germany: The Full Class",
+   "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
+   "img": "https://alpha.uscreencdn.com/images/programs/4385033/horizontal/c26a3241-c86e-4fc4-b026-4ceef92f781e.jpg?auto=webp&width=640",
+   "dur": "51 min",
    "meta": "Live class recording"
   }
  ]
