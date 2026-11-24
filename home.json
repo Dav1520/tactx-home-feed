@@ -1,13 +1,19 @@
 {
- "updated": "2026-11-24T11:22:16Z",
+ "updated": "2026-11-24T19:06:28Z",
  "week": {
   "date": "w/c 23 Nov 2026",
   "items": [
    {
-    "kind": "Tactical analysis, 19 Nov",
-    "name": "Risk It: How England Beat the World Champions in Transition",
-    "href": "https://tactxcoach.com/programs/spain-2-3-england-risk-in-attacking-transition",
-    "img": "https://alpha.uscreencdn.com/images/programs/4444295/horizontal/a707cd7b-7d63-4c80-9cc4-6298741a3b1e.jpg?auto=webp&width=640"
+    "kind": "Live class, Wed 25 Nov, 1pm UK",
+    "name": "De Zerbi's Spurs: Build-Up Play, Playing Around or Through",
+    "href": "https://tactxcoach.com/programs/de-zerbi-spurs-build-up-play-live-class",
+    "img": "https://alpha.uscreencdn.com/images/programs/4453996/horizontal/2e012002-a450-4094-95f4-f80f5742b74d.jpg?auto=webp&width=640"
+   },
+   {
+    "kind": "New practice, 24 Nov",
+    "name": "The 3v3 Game: 3v3 Practice 8",
+    "href": "https://tactxcoach.com/programs/3v3-practice-08",
+    "img": "https://alpha.uscreencdn.com/images/programs/4452346/horizontal/6d155c3d-39ce-4bb7-8de1-cb13f1f53b6a.jpeg?auto=webp&width=640"
    },
    {
     "kind": "New practice, 22 Nov",
@@ -63,6 +69,13 @@
  ],
  "releases": [
   {
+   "title": "The 3v3 Game: 3v3 Practice 8",
+   "href": "https://tactxcoach.com/programs/3v3-practice-08",
+   "img": "https://alpha.uscreencdn.com/images/programs/4452346/horizontal/6d155c3d-39ce-4bb7-8de1-cb13f1f53b6a.jpeg?auto=webp&width=640",
+   "dur": "1:52",
+   "date": "24 November"
+  },
+  {
    "title": "The 3v3 Game: 3v3 Practice 7",
    "href": "https://tactxcoach.com/programs/3v3-practice-07",
    "img": "https://alpha.uscreencdn.com/images/programs/4442546/horizontal/85280e95-8a49-4ccd-b520-38c16eae2898.jpeg?auto=webp&width=640",
@@ -103,13 +116,6 @@
    "img": "https://alpha.uscreencdn.com/images/programs/4439510/horizontal/41125643-3daa-44bd-92f7-ea4245255bf3.jpeg?auto=webp&width=640",
    "dur": "1:29",
    "date": "16 November"
-  },
-  {
-   "title": "The 3v3 Game: 3v3 Practice 1",
-   "href": "https://tactxcoach.com/programs/3v3-practice-01",
-   "img": "https://alpha.uscreencdn.com/images/programs/4434854/horizontal/52def789-f311-4015-95bf-bb431ec8d7d5.jpeg?auto=webp&width=640",
-   "dur": "1:33",
-   "date": "12 November"
   }
  ],
  "mwCollections": [
