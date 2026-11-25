@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-24T19:06:28Z",
+ "updated": "2026-11-25T15:20:31Z",
  "week": {
   "date": "w/c 23 Nov 2026",
   "items": [
    {
-    "kind": "Live class, Wed 25 Nov, 1pm UK",
+    "kind": "Tactical analysis, 25 Nov",
     "name": "De Zerbi's Spurs: Build-Up Play, Playing Around or Through",
-    "href": "https://tactxcoach.com/programs/de-zerbi-spurs-build-up-play-live-class",
-    "img": "https://alpha.uscreencdn.com/images/programs/4453996/horizontal/2e012002-a450-4094-95f4-f80f5742b74d.jpg?auto=webp&width=640"
+    "href": "https://tactxcoach.com/programs/de-zerbi-spurs-v-ipswich-build-up-play",
+    "img": "https://alpha.uscreencdn.com/images/programs/4454024/horizontal/979de67b-c6f6-4f1b-88b7-9d26713d8761.jpg?auto=webp&width=640"
    },
    {
     "kind": "New practice, 24 Nov",
@@ -24,6 +24,13 @@
   ]
  },
  "analysis": [
+  {
+   "title": "De Zerbi's Spurs: Build-Up Play, Playing Around or Through",
+   "href": "https://tactxcoach.com/programs/de-zerbi-spurs-v-ipswich-build-up-play",
+   "img": "https://alpha.uscreencdn.com/images/programs/4454024/horizontal/979de67b-c6f6-4f1b-88b7-9d26713d8761.jpg?auto=webp&width=640",
+   "tag": "ARTICLE + CLASS",
+   "date": "25 November 2026"
+  },
   {
    "title": "Risk It: How England Beat the World Champions in Transition",
    "href": "https://tactxcoach.com/programs/spain-2-3-england-risk-in-attacking-transition",
@@ -58,13 +65,6 @@
    "img": "https://alpha.uscreencdn.com/assets%2Fpage-builder%2F00-header.1791963591.png?width=640",
    "tag": "SCOUTING REPORT",
    "date": "14 October 2026"
-  },
-  {
-   "title": "Klopp's Germany: How to Coach the Counter-Press",
-   "href": "https://tactxcoach.com/programs/klopp-germany-counter-press-tactical-analysis",
-   "img": "https://alpha.uscreencdn.com/images/programs/4383310/horizontal/28b30394-d229-4cbb-9348-e06a6c2a58f3.jpeg?auto=webp&width=640",
-   "tag": "ARTICLE + CLASS",
-   "date": "7 October 2026"
   }
  ],
  "releases": [
