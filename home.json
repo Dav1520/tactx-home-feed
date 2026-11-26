@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:03:52Z",
+ "updated": "2026-11-26T11:42:24Z",
  "week": {
   "date": "w/c 23 Nov 2026",
   "items": [
@@ -171,17 +171,17 @@
    "meta": "Live class recording"
   },
   {
-   "title": "PSG 4-2 Barcelona: The Full Class",
-   "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
-   "img": "https://alpha.uscreencdn.com/images/programs/4406876/horizontal/72f698ff-bce5-4b19-a5ed-58f7088551b8.jpeg?auto=webp&width=640",
-   "dur": "37 min",
-   "meta": "Live class recording"
-  },
-  {
    "title": "Brighton 3-0 Arsenal: The Full Class",
    "href": "https://tactxcoach.com/programs/brighton-3-0-arsenal-hurzeler-man-to-man-press",
    "img": "https://alpha.uscreencdn.com/images/programs/4360985/horizontal/cbf06064-6be9-401a-afcc-582e738d061e.jpeg?auto=webp&width=640",
    "dur": "68 min",
+   "meta": "Live class recording"
+  },
+  {
+   "title": "PSG 4-2 Barcelona: The Full Class",
+   "href": "https://tactxcoach.com/programs/psg-4-2-barcelona-how-psg-beat-the-press",
+   "img": "https://alpha.uscreencdn.com/images/programs/4406876/horizontal/72f698ff-bce5-4b19-a5ed-58f7088551b8.jpeg?auto=webp&width=640",
+   "dur": "37 min",
    "meta": "Live class recording"
   },
   {
